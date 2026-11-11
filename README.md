@@ -1,4 +1,4 @@
 # Аліса Кошелева
 # IBT-41
 # Практична робота №1
-# practice-02
+https://github.com/kosshelevaa/programming-basics/tree/bbbe397926f490e70477fcba8c9bffaa449d030a/practice-02
